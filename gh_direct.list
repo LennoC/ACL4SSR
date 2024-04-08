@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,zicp.fun
 DOMAIN-SUFFIX,qicp.vip
 DOMAIN-SUFFIX,ddns.net
+DOMAIN-SUFFIX,f3322.net
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,checkip.synology.com
@@ -13,6 +14,10 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ip6.seeip.org
 DOMAIN-SUFFIX,members.3322.org
+#不想走代理的国外域名
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,fedex.com
+DOMAIN-SUFFIX,dhl.com
 #自用域名规则
 DOMAIN-SUFFIX,jandan.net
 DOMAIN-SUFFIX,booklink.me
