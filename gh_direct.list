@@ -23,7 +23,8 @@ DOMAIN-SUFFIX,pairdrop.net
 #自用域名规则
 DOMAIN-SUFFIX,jandan.net
 DOMAIN-SUFFIX,booklink.me
-DOMAIN-SUFFIX,moyu.im
+#DOMAIN-SUFFIX,moyu.im
+#moyu.im 走cf cdn，直连体验不好
 DOMAIN-SUFFIX,hqew.com
 DOMAIN-SUFFIX,ic.net.cn
 DOMAIN-SUFFIX,szlcsc.com
