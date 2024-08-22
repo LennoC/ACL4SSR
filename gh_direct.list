@@ -1,6 +1,6 @@
 #direct list in github
 #自定义直连列表
-#Change time: 2024.6.12
+#Change time: 2024.8.22
 #DDNS相关
 DOMAIN-SUFFIX,zicp.fun
 DOMAIN-SUFFIX,qicp.vip
@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,pairdrop.net
 #自用域名规则
+DOMAIN-SUFFIX,appinn.net
+DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,jandan.net
 DOMAIN-SUFFIX,booklink.me
 #DOMAIN-SUFFIX,moyu.im
@@ -30,7 +32,7 @@ DOMAIN-SUFFIX,ic.net.cn
 DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,lianlianglobal.cn
 DOMAIN-SUFFIX,lianlianglobal.com
-DOMAIN-SUFFIX,hkin.com.cn,DIRECT
+DOMAIN-SUFFIX,hkin.com.cn
 #暂时直连观察
 DOMAIN-SUFFIX,efind.ru
 DOMAIN-SUFFIX,me-talk.ru
