@@ -1,6 +1,6 @@
 #direct list in github
 #自定义直连列表
-#Change time: 2024.8.22
+#Change time: 2024.9.3
 #DDNS相关
 DOMAIN-SUFFIX,zicp.fun
 DOMAIN-SUFFIX,qicp.vip
@@ -25,8 +25,8 @@ DOMAIN-SUFFIX,appinn.net
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,jandan.net
 DOMAIN-SUFFIX,booklink.me
-#DOMAIN-SUFFIX,moyu.im
-#moyu.im 走cf cdn，直连体验不好
+DOMAIN-SUFFIX,moyu.im
+#moyu.im 改图床，直连尝试 2024.9.3
 DOMAIN-SUFFIX,hqew.com
 DOMAIN-SUFFIX,ic.net.cn
 DOMAIN-SUFFIX,szlcsc.com
