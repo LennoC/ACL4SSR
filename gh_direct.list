@@ -1,6 +1,6 @@
 #direct list in github
 #自定义直连列表
-#Change time: 2024.9.3
+#Change time: 2024.9.18
 #DDNS相关
 DOMAIN-SUFFIX,zicp.fun
 DOMAIN-SUFFIX,qicp.vip
@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,lianlianglobal.cn
 DOMAIN-SUFFIX,lianlianglobal.com
 DOMAIN-SUFFIX,hkin.com.cn
+#屏蔽节点的在线影视
+DOMAIN-SUFFIX,lzizy9.com
+DOMAIN-SUFFIX,lz-cdn15.com
 #暂时直连观察
 DOMAIN-SUFFIX,efind.ru
 DOMAIN-SUFFIX,me-talk.ru
