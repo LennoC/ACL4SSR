@@ -15,11 +15,13 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ip6.seeip.org
 DOMAIN-SUFFIX,members.3322.org
+
 #不想走代理的国外域名
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,pairdrop.net
+
 #自用域名规则
 DOMAIN-SUFFIX,appinn.net
 DOMAIN-SUFFIX,appinn.com
@@ -33,9 +35,13 @@ DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,lianlianglobal.cn
 DOMAIN-SUFFIX,lianlianglobal.com
 DOMAIN-SUFFIX,hkin.com.cn
+
 #屏蔽节点的在线影视
+##量子云
 DOMAIN-SUFFIX,lzizy9.com
 DOMAIN-SUFFIX,lz-cdn15.com
+DOMAIN-SUFFIX,lz15uu.com
+
 #暂时直连观察
 DOMAIN-SUFFIX,efind.ru
 DOMAIN-SUFFIX,me-talk.ru
