@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,hkin.com.cn
 DOMAIN-SUFFIX,lzizy9.com
 DOMAIN-SUFFIX,lz-cdn15.com
 DOMAIN-SUFFIX,lz15uu.com
+DOMAIN-SUFFIX,lzplayer.tv
 DOMAIN-REGEX,lzizy\d+.com
 DOMAIN-REGEX,lz-cdn\d+.com
 DOMAIN-REGEX,lz\d+uu.com
