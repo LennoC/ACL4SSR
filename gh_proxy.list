@@ -1,4 +1,7 @@
 #Proxy list in github
-#Change time: 2024.9.11
+#Change time: 2024.9.23
 DOMAIN-SUFFIX,datasheets.com
 DOMAIN-SUFFIX,lbyp.ink
+## Microsfot Winget
+DOMAIN,cdn.winget.microsoft.com
+DOMAIN,storeedgefd.dsx.mp.microsoft.com
