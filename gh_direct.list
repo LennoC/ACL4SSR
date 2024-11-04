@@ -27,8 +27,8 @@ DOMAIN-SUFFIX,appinn.net
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,jandan.net
 DOMAIN-SUFFIX,booklink.me
-DOMAIN-SUFFIX,moyu.im
-#moyu.im 改图床，直连尝试 2024.9.3
+#DOMAIN-SUFFIX,moyu.im
+#moyu.im 改图床，直连缓慢 去掉 2024.11.4
 DOMAIN-SUFFIX,hqew.com
 DOMAIN-SUFFIX,ic.net.cn
 DOMAIN-SUFFIX,szlcsc.com
