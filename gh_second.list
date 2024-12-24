@@ -2,5 +2,8 @@
 # 主代理组一般是HK，主要提供临时切换或者HK不可访问的列表
 # 日期 2024.12.24
 
-# 2024.12.24 HK节点无法访问
+# 2024.12.24 获取不到DNS，换SOCKS5正常
 DOMAIN-SUFFIX,telegra.ph
+
+# 测试
+DOMAIN-SUFFIX,sex.com
