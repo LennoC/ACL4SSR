@@ -4,6 +4,3 @@
 
 # 2024.12.24 获取不到DNS，换SOCKS5正常
 DOMAIN-SUFFIX,telegra.ph
-
-# 测试
-DOMAIN-SUFFIX,sex.com
