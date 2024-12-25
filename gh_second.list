@@ -3,4 +3,5 @@
 # 日期 2024.12.24
 
 # 2024.12.24 获取不到DNS，换SOCKS5正常
-DOMAIN-SUFFIX,telegra.ph
+# 2024.12.25 破案 火绒拦截该域名
+# DOMAIN-SUFFIX,telegra.ph
