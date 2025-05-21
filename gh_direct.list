@@ -23,8 +23,8 @@ DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,pairdrop.net
 
 #自用域名规则
-DOMAIN-SUFFIX,appinn.net
-DOMAIN-SUFFIX,appinn.com
+#DOMAIN-SUFFIX,appinn.net
+#DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,jandan.net
 DOMAIN-SUFFIX,booklink.me
 DOMAIN-SUFFIX,hqew.com
