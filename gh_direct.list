@@ -1,6 +1,6 @@
 #direct list in github
 #自定义直连列表
-#Change time: 2024.9.18
+#Change time: 2025.7.2
 #DDNS相关
 DOMAIN-SUFFIX,zicp.fun
 DOMAIN-SUFFIX,qicp.vip
@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,pics.ccip.top
 #屏蔽节点的在线影视
 ##量子云
 DOMAIN-SUFFIX,lzizy.com
-dow.dowlz19.com
 DOMAIN-SUFFIX,lzplayer.com
 DOMAIN-SUFFIX,lzplayer.tv
 DOMAIN-REGEX,lzizy\d+.com
