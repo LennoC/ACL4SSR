@@ -1,10 +1,11 @@
 #Proxy list in github
-#Change time: 2025.7.23
+#Change time: 2025.10.17
 DOMAIN-SUFFIX,datasheets.com
 DOMAIN-SUFFIX,lbyp.ink
 DOMAIN-SUFFIX,superbed.cc
 DOMAIN-SUFFIX,czbooks.net
 DOMAIN-SUFFIX,69shuba.com
+DOMAIN-SUFFIX,archive.org
 
 ## microsoft Winget
 DOMAIN,cdn.winget.microsoft.com
