@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,pairdrop.net
 
+#可以直连且速度还可以的国外服务
+DOMAIN-SUFFIX,bitwarden.com
+
 #自用域名规则
 DOMAIN-SUFFIX,ihtw.moe
 DOMAIN-SUFFIX,hcfy.ai
