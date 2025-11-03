@@ -43,6 +43,10 @@ DOMAIN-SUFFIX,hkin.com.cn
 DOMAIN-SUFFIX,cogolinks.com
 # mecfl 图床
 DOMAIN-SUFFIX,pics.ccip.top
+# 沉浸式翻译服务,看CDN是CF
+DOMAIN-SUFFIX,immersivetranslate.com
+
+
 
 #屏蔽节点的在线影视
 ##量子云
