@@ -1,11 +1,14 @@
 #Proxy list in github
-#Change time: 2025.10.17
+#Change time: 2026.3.13
 DOMAIN-SUFFIX,datasheets.com
 DOMAIN-SUFFIX,lbyp.ink
 DOMAIN-SUFFIX,superbed.cc
 DOMAIN-SUFFIX,czbooks.net
 DOMAIN-SUFFIX,69shuba.com
 DOMAIN-SUFFIX,archive.org
+
+## gstatic 应该代理, 最好与google同一节点
+# DOMAIN-SUFFIX, gstatic.com
 
 ## microsoft Winget
 DOMAIN,cdn.winget.microsoft.com
