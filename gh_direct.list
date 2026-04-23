@@ -1,6 +1,6 @@
 #direct list in github
 #自定义直连列表
-#Change time: 2026.4.10
+#Change time: 2026.4.23
 #DDNS相关
 DOMAIN-SUFFIX,zicp.fun
 DOMAIN-SUFFIX,qicp.vip
@@ -31,8 +31,12 @@ DOMAIN-SUFFIX,pairdrop.net
 #DOMAIN-SUFFIX,btwrdn.com
 
 # koofr 网盘 可直连
-DOMAIN-SUFFIX,koofr.net
-DOMAIN-SUFFIX,koofr.eu
+# DOMAIN-SUFFIX,koofr.net
+# DOMAIN-SUFFIX,koofr.eu
+
+# infinityCloud 网盘 webdav 可直连 teracloud
+# DOMAIN-SUFFIX,infini-cloud.net
+# DOMAIN-SUFFIX,teracloud.jp
 
 #自用域名规则
 DOMAIN-SUFFIX,ihtw.moe
