@@ -67,6 +67,9 @@ DOMAIN-REGEX,lz-cdn\d+.com
 DOMAIN-REGEX,lz\d+uu.com
 DOMAIN-REGEX,cdnlz\d+.com
 DOMAIN-REGEX,dowlz\d+.com
+DOMAIN-REGEX,lzcdn\d+.com
+DOMAIN-REGEX,lzdown\d+.com
+DOMAIN-REGEX,lzidw\d+.com
 
 #暂时直连观察
 DOMAIN-SUFFIX,efind.ru
