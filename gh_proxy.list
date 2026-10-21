@@ -1,11 +1,12 @@
 #Proxy list in github
-#Change time: 2026.3.13
+#Change time: 2026.10.21
 DOMAIN-SUFFIX,datasheets.com
 DOMAIN-SUFFIX,lbyp.ink
 DOMAIN-SUFFIX,superbed.cc
 DOMAIN-SUFFIX,czbooks.net
 DOMAIN-SUFFIX,69shuba.com
 DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,ihtw.moe
 
 ## gstatic 应该代理, 最好与google同一节点
 # DOMAIN-SUFFIX, gstatic.com
