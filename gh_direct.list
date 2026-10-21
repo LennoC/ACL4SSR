@@ -1,6 +1,6 @@
 #direct list in github
 #自定义直连列表
-#Change time: 2026.4.23
+#Change time: 2026.10.21
 #DDNS相关
 DOMAIN-SUFFIX,zicp.fun
 DOMAIN-SUFFIX,qicp.vip
@@ -39,7 +39,6 @@ DOMAIN-SUFFIX,pairdrop.net
 # DOMAIN-SUFFIX,teracloud.jp
 
 #自用域名规则
-DOMAIN-SUFFIX,ihtw.moe
 DOMAIN-SUFFIX,hcfy.ai
 DOMAIN-SUFFIX,jandan.net
 DOMAIN-SUFFIX,booklink.me
