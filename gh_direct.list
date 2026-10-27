@@ -51,8 +51,8 @@ DOMAIN-SUFFIX,hkin.com.cn
 DOMAIN-SUFFIX,cogolinks.com
 # mecfl 图床
 DOMAIN-SUFFIX,pics.ccip.top
-# 沉浸式翻译服务,看CDN是CF
-DOMAIN-SUFFIX,immersivetranslate.com
+# 沉浸式翻译服务,看CDN是CF. 国内外服务分离，不再强制直连。
+# DOMAIN-SUFFIX,immersivetranslate.com
 
 
 
